@@ -13,7 +13,7 @@ The primary objective of this effort was to augment the site's accessibility whi
 * Restructuring CSS code to follow site layout
 * Creating alt text for all site images.
 
-(starting code) Below is a representative snippet of the original codebase making use of div elements:
+(starting code) Below is a representative of the original codebase making use of div elements:
 ```HTML
     <div class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
