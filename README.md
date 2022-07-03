@@ -2,7 +2,7 @@
 Code Refactor
 # Website Code Refactor
 
-This project demonstrates the refactoring an existing website. The client, a marketing company, requested that their website should have several improvements made, in order to improve accessibility features, SEO performance, and code readability.
+This project demonstrates the refactoring of an existing website. The client, a marketing company, requested that their website should have several improvements made, in order to improve accessibility features, SEO performance, and code readability.
 
 # Objective 
 
