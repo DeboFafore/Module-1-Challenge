@@ -1,4 +1,4 @@
- /* Wildcard */
+  /* Wildcard */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -52,7 +52,6 @@ p {
     font-size: 16px;
 }
 
-/* Hero Element */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,7 +71,6 @@ p {
     margin-left: 25px;
 }
 
-/*for selecting right sided menu items*/
 .content {
     width: 75%;
     display: inline-block;
@@ -88,7 +86,6 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-
 }
 
 /*Made them same class because they had same code*/
@@ -110,7 +107,7 @@ h3 {
     max-width: 150px;
 }
 
-/*added same div ID to all three because they had same code*/
+/*made them same class to because they had same code*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,7 +117,7 @@ h3 {
     color: #ffffff;
 }
 
-/*all 3 imgs changed to same class*/
+/*added same class to all three because they had same code*/
 .search-engine-optimization img {
     max-height: 200px;
 }
